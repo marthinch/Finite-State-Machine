@@ -1,2 +1,6 @@
 FiniteStateMachine/FiniteStateMachine.Android/bin/
-FiniteStateMachine/
+FiniteStateMachine/FiniteStateMachine.Android/obj/
+FiniteStateMachine/FiniteStateMachine/obj/
+FiniteStateMachine/FiniteStateMachine/bin/
+FiniteStateMachine/FiniteStateMachine.iOS/obj/
+FiniteStateMachine/FiniteStateMachine.iOS/bin/
